@@ -2,7 +2,7 @@
 
 ![Screenshot](screenshot.png)
 
-Access the page [here](realizado como practica de conceptos HTML y CSS.).
+Access the page [here](https://fakebook-r2abreu-d72b1c833fcb32fbb335cf3992ec9219281d7c49586761.gitlab.io).
 
 ## Description 
 
